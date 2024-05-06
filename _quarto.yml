@@ -14,7 +14,38 @@ website:
       - href: qmd_files/rpages_files/rpages.qmd
         text: R Help
       - text: Resources
-        # menu:
+        menu:
+          - text: "Course Textbook"
+          - text: "R for Data Science"
+            href: http://r4ds.had.co.nz/
+          - text: Git/GitHub and R
+            href: https://cfss.uchicago.edu/setup/
+          - text: "R Markdown: The Definitive Guide"
+            href: https://bookdown.org/yihui/rmarkdown/
+          - text: "Geocomputation with R"
+            href: https://geocompr.robinlovelace.net/
+          - text: "---------------"
+          - text: "Supplemental Material"
+          - text: "Happy Git and Github for the useR"
+            href: http://happygitwithr.com/
+          - text: "plotly for R"
+            href: https://plotly-book.cpsievert.me/index.html
+          - text: "Computing in R for Social Sciences"
+            href: https://cfss.uchicago.edu/notes/why-visualize-data/
+          - text: "Statistical Concepts in Presenting Data:"
+            href: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/RafeDonahue/fscipdpfcbg_currentversion.pdf
+          - text: "Advanced R"
+            href: http://adv-r.had.co.nz/
+          - text: "R Packages"
+            href: http://r-pkgs.had.co.nz/
+          - text: "Tidy evaluation"
+            href: https://tidyeval.tidyverse.org/
+          - text: "Fundamentals of Data Visualization"
+            href: http://serialmentor.com/dataviz/
+          - text: "Geocomputation with R"
+            href: https://geocompr.robinlovelace.net/
+          - text: "Crosstalk: htmlwidgets add-on"
+            href: https://rstudio.github.io/crosstalk/index.html
         
       
 
