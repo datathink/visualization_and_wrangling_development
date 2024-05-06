@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DataThink Development"
+  navbar:
+    pinned: true
+    left:
+      # - href: index.qmd
+      #   text: Home
+      - href: modules.qmd
+        text: Modules
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-location: left
+    code-copy: true
+    code-line-numbers: true
+    code-block-border-left: "#A9A9A9"
+    code-block-bg: true
+    code-bloc-bg-alpha: -.2
+    page-layout: full
+    grid:
+      sidebar-width: 200px
+      body-width: 1030px
+      margin-width: 70px
+
+editor: visual
+
+markdown:
+  class: center-header  # Assuming you want to center-align
+  # Add styling within the markdown configuration
+  style:
+    text-align: center;  # Centers the text
+
+
+

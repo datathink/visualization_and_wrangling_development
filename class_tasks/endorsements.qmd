@@ -1,0 +1,43 @@
+---
+title: "Endorsements"
+---
+
+
+
+## [Andreas Martinson](https://www.linkedin.com/in/andreasmartinson/)
+
+> I took Math 335 (Data Wrangling & Visualization) Fall Semester 2018. It was a challenging class, but I didn't find it tedious, so I enjoyed the hard work. It was a good growing experience for me, especially since my undergrad degree was in Accounting. Math 335 helped me get an internship at Intermountain Healthcare by giving me relevant skills and access to Brother Hathaway's announcements about internships. Math 335 enabled me to think about careers in data science and news about the field since we had articles to read every week. The class provided a lot of different learning opportunities, and it was really up to the students to take advantage of them or not. The course was structured differently than any other class, and it was most beneficial for getting me to where I am today. It helped me decide to pivot careers before even getting out of my undergrad. -May, 2019-
+
+## [Mallory Jones](https://www.linkedin.com/in/jones94/)
+
+> This class was so challenging but is most applicable class I have taken at BYU-Idaho. In my major, Sociology, I am able apply the skills I learned from this class to other applicable situations. I am forever grateful for the lessons I learned in Math 335. -Apri, 2019-
+
+## [Jacob Corum](https://www.linkedin.com/in/jacob-corum-big-data/)
+
+> I just got off a conference call with a company out in California that offered me a job as a Data Science consultant to help them build a shiny app using R. Without such hands on experiences and high expectations to reach, I wouldn't have the skills necessary to be considered for a this type of position. -April, 2019-
+
+## [Colton Kopsa](https://www.linkedin.com/in/coltonkopsa/)
+
+> In writing about your data wrangling class, I'm am impressed with how easy it was to think of things it allowed me to do/experience even almost a year later. I feel like it was done in such a way that learning about telling a story with data and producing high quality work was easy. There were lots of opportunities to learn from each other and help each other succeed. Then, at the end of it all, I was able to "publish" my final report to LinkedIn, which made me work hard to make it be something professional and worth looking at. The class translated easily into things to add to my professional portfolio. -December, 2018- 
+
+## Early Graduate of the Program
+
+<!-- MH on Dec 11, 2019  -->
+
+> I’ve been meaning to send this email to you for a few weeks and finally found time. First off I wanted to say thank you. Thank you for all your encouragement and help while I was still in school. The things i learned and struggles with in school are things I excel at now in my work. I learned to solve my own problems when I didn’t know how to do something. Going through the Data Science program gave me the tools to come in and deliver right away at my work. I’m grateful for the struggles the program brought because those struggles are now strengths. 
+
+> I got [my job] because of the skills I learned in our Data Science program. Thank you for all you did to help me achieve this.  -December, 2019-
+
+## [Josh Carrell](https://www.linkedin.com/in/joshua-carrell-51383294/)
+
+> There’s probably no way you remember me[^1] but I graduated in Geospatial Computing and was in your data wrangling class last winter semester. You might remember I did my final project on a spatial tutorial in R and my capstone was species distribution modeling.
+
+> Just wanted to share my good fortune story with you. I was offered a graduate research assistantship at Utah State University (their paying tuition, 80%health care, and a monthly stipend) in their MS Ecology program. I am funded by the Forest Service and Utah Division of Wildlife to create and update a standard procedure of species distribution modeling for species of concern. All in R. 
+
+> Anyways, I thought you might think that’s good stuff and thanks for your class. I’m looking forward to implementing what I learned in 335. -December, 2019-
+
+## Share your thoughts
+
+Use [this google form](https://goo.gl/forms/abagqtM0qjJOm8NT2) to share your thoughts.  By sharing your thoughts, you give permission for us to post them on our website.
+
+[^1]: I remember students that care about data and communicating with data.  

@@ -1,0 +1,59 @@
+---
+title: "cs-13"
+---
+
+
+
+
+
+
+## Case Study 13: Finish well 
+### Background 
+
+Your case study and weekly tasks will provide time to makes sure you have wrapped up the class and get set for a great future in data science. Make sure you have address all the end of semester items.
+
+Please write your cover letter to me about the class that [uses the syllabus](https://byuistats.github.io/M335/syllabus.html#competency_scale) to justify your grade. Your resume would be in the format you would provide to a job or internship.
+
+ * [Course Website](../index.html)
+
+
+
+
+
+
+### Reading
+
+This reading will help you complete the tasks below.
+
+
+
+
+### Tasks
+
+
+<style>
+ul {
+   color: black;
+   list-style-type: none;
+   list-style-position: outside;
+
+}
+
+</style>
+
+
+* [ ] Join the [BYUI Data Science LinkedIn](https://www.linkedin.com/groups/13537407/), [GitHub](https://github.com/byuidss), and [Slack](https://byuidss.slack.com/signup) groups and make sure your picture is placed in your profile.
+* [ ] A cover letter to me stating the key concepts and techniques that you learned during our projects and your goals to continue learning in this area - include a grade request that represents your knowledge and task completion
+* [ ] A current resume that includes the skills you have learned during our projects which you would submit to any future jobs
+* [ ] A semester task form that records your completed tasks during the semester (electronic)
+* [ ] Semester project submission on GitHub
+* [ ] Submit this material electronically to your repository and [schedule a visit with me](https://byuistats.github.io/M335/visitme.html)
+
+
+
+
+
+
+
+
+

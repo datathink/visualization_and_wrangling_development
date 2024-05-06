@@ -1,0 +1,64 @@
+---
+title: "task-02"
+---
+
+
+
+
+
+
+
+
+
+## Task 2: Wax On, Wax off 
+### Background 
+This task is intended to get all of us on the same page in R.  You will copy code from your readings and then improve the Research and Creative Works conference visulization from [this Excel file](https://byuistats.github.io/M335/data/department_data.xlsx). Even if you have used R before, this will be an excellent refresher. If you do not get the title of this task, watch [this](https://www.youtube.com/watch?v=SMCsXl9SGgY). 
+
+ * [Course Website](../index.html)
+
+
+
+
+<style>
+ul {
+   color: black;
+   list-style-type: none;
+   list-style-position: outside;
+
+}
+
+</style>
+
+
+### Reading
+
+This reading will help you complete the tasks below.
+
+* o [Chapter 4: R for Data Scientists - Workflow Basics](http://r4ds.had.co.nz/workflow-basics.html){target='blank'}
+* o [Modern Drive: Chapter 1 Getting Started with Data in R](https://moderndive.com/1-getting-started.html){target='blank'}
+* o [Using the geom_col function](https://ggplot2.tidyverse.org/reference/geom_bar.html){target='blank'}
+* o [Using the geom_line function](https://ggplot2.tidyverse.org/reference/geom_path.html){target='blank'}
+
+
+### Tasks
+
+
+* [ ] Make an R script that has the code examples from [Chapter 4 of R for data science](https://r4ds.had.co.nz/workflow-basics.html) and [Chapter 1 of Modern Drive](https://moderndive.com/1-getting-started.html)
+* [ ] Write a short comment in your R script that explains 1-2 new concepts you learned about R
+* [ ] Improve the 3D barchart visuallization using R (see below) to provide a graphic that answers the question, What is the growth over time trend by department of RC&W attendance?
+    * [ ] Practice using the help files for geom_line and geom_col and the examples at the end of the help files (see readings)
+    * [ ] Save your code for your improved visualization in your R script
+    * [ ] Share the R script and the image to our intern development slack channel
+* [ ] Post a professional picture to your Github, LinkedIn, and Slack icons.
+
+
+----
+
+
+```r
+library(tidyverse)
+dat <- read_csv("https://byuistats.github.io/M335/data/rcw.csv", 
+                col_types = cols(Semester_Date = col_date(format = "%m/%d/%y"), Semester = col_factor(levels = c("Winter", "Spring", "Fall"))))
+```
+
+![](barchart_3d.png)
