@@ -7,10 +7,14 @@ website:
   navbar:
     pinned: true
     left:
-      # - href: index.qmd
+      # - href: qmd_files/index.qmd
       #   text: Home
-      - href: modules.qmd
+      - href: qmd_files/modules_files/modules.qmd
         text: Modules
+      - href: qmd_files/rpages_files/rpages.qmd
+        text: R Help
+      
+
 
 format:
   html:
