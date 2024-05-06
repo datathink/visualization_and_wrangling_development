@@ -13,6 +13,9 @@ website:
         text: Modules
       - href: qmd_files/rpages_files/rpages.qmd
         text: R Help
+      - text: Resources
+        # menu:
+        
       
 
 
