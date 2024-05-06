@@ -6,7 +6,7 @@ title: "Module Schedule"
 
 
 
-You can read the background on all tasks here.  The "Details" link below each background will take you to the full task.  If you would like to see all the individual tasks for each part of class you can review them on the [Task List Page](tasklist.html){target="blank"}
+You can read the background on all tasks here.  The "Details" link below each background will take you to the full task. 
 
 # Module 1
 
