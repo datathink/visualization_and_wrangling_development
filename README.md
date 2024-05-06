@@ -1,7 +1,7 @@
 # Visualization and Wrangling Development
 A Quarto version of J Hathaway's M335 Data Wrangling and Visualization course, condensed for DataThink onboarding/training/development.
 
-The main reason this was done for easier editing and future development for datathink purposes. 
+The main reason this was done is for easier editing and future development for datathink purposes. 
 
 # Folder Structure
 `_quarto.yml` Is a configuration file and Any document rendered within the project directory will automatically inherit the metadata defined at the project level. Meaning this file is where you specify layout, themes, and navigation links.
