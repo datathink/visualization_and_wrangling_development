@@ -36,7 +36,6 @@ ul {
 
 This reading will help you complete the tasks below.
 
-* o [What do people do with new data](https://simplystatistics.org/2014/06/13/what-i-do-when-i-get-a-new-data-set-as-told-through-tweets/){target='blank'}
 * o [Finding data to answer your question](https://www.dataquest.io/blog/free-datasets-for-projects/){target='blank'}
 * o [Find a post from the functional art](http://www.thefunctionalart.com){target='blank'}
 * o [Chapter 20: R for Data Science - Vectors](http://r4ds.had.co.nz/vectors.html){target='blank'}
