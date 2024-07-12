@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
-  },
-  {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "Welcome",
-    "section": "",
-    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
-  },
-  {
-    "objectID": "index.html#course-mission-statement",
-    "href": "index.html#course-mission-statement",
-    "title": "Welcome",
-    "section": "Course Mission Statement",
-    "text": "Course Mission Statement\nUse data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Students will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
-  },
-  {
-    "objectID": "index.html#course-outcomes",
-    "href": "index.html#course-outcomes",
-    "title": "Welcome",
-    "section": "Course Outcomes",
-    "text": "Course Outcomes\nAt the completion of this course, successful students will be able to:\n\nConvert data from varied formats or structures to a tidy format for analysis and visualization.\nClean, transform, and merge data attributes/variables appropriately.\nEffectively display and communicate meaning from spatial, temporal, and textual data.\nArticulate the process, benefits, and challenges of big data manipulation.\nUse current analysis, presentation, and collaboration tools in the data science field (E.g. R, Python, D3.js, GitHub, Slack, etc)."
-  },
-  {
     "objectID": "qmd_files/rpages_files/rmarkdown_help.html",
     "href": "qmd_files/rpages_files/rmarkdown_help.html",
     "title": "R Markdown Guide",
@@ -728,6 +700,34 @@
     "text": "Over the campfire, you and a friend get into a debate about which college in Utah has had the best MLB success. As an avid BYU fan, you want to prove your point, and you go to data to settle the debate. You need a clear visualization that depicts the performance of BYU players compared to other Utah college players that have played in the major leagues. The library(Lahman) package has a comprehensive set of baseball data. It is great for testing out our relational data skills. We will also need a function to inflation adjust the player salaries - library(blscrapeR). See this guide for an example.\n\nCourse Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Chapter 13: R for Data Science - Relational Data\n\n\n\n\n\nTake notes on your reading of the specified ‘R for Data Science’ chapter in the README.md or in a ‘.R’ script in the class task folder\nInstall the library(Lahman) and examine the available data sets available\n\nFind the 4-5 different data sets that you will need to show full college and player names as well as their annual earnings\n\nInstall the library(blscrapeR) and use the inflation_adjust(2017) function to get all earnings in 2017 dollars\nMake a plot showing how professional baseball player earnings that played baseball at BYU compared to the players from other Utah schools\nSave your .R script and image to your repository and be ready to share your code and image at the beginning of class"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Current trends among industries ranging from Insurance to Manufacturing (as well as many other professions) are pushing the need for data literacy. This Course - Data Wrangling and Visualization provides learners with the technical skills needed to competently work with and visualize data. More specifically this course will allow learners to use data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Learners will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+  },
+  {
+    "objectID": "index.html#course-mission-statement",
+    "href": "index.html#course-mission-statement",
+    "title": "Welcome",
+    "section": "Course Mission Statement",
+    "text": "Course Mission Statement\nUse data-driven programming in R for the handling, formatting, and visualization of messy and complex data. Students will implement data wrangling techniques and the grammar of graphics process in visualizing complex data."
+  },
+  {
+    "objectID": "index.html#course-outcomes",
+    "href": "index.html#course-outcomes",
+    "title": "Welcome",
+    "section": "Course Outcomes",
+    "text": "Course Outcomes\nAt the completion of this course, successful students will be able to:\n\nConvert data from varied formats or structures to a tidy format for analysis and visualization.\nClean, transform, and merge data attributes/variables appropriately.\nEffectively display and communicate meaning from spatial, temporal, and textual data.\nArticulate the process, benefits, and challenges of big data manipulation.\nUse current analysis, presentation, and collaboration tools in the data science field (E.g. R, Python, D3.js, GitHub, Slack, etc)."
+  },
+  {
     "objectID": "qmd_files/modules_files/class_tasks/task07_details.html",
     "href": "qmd_files/modules_files/class_tasks/task07_details.html",
     "title": "task-07",
@@ -746,14 +746,14 @@
     "href": "qmd_files/modules_files/class_tasks/task20_details.html",
     "title": "task-20",
     "section": "",
-    "text": "We have been asked by the state of Idaho to visualize permitted well locations with a production of more than 5000 gallons and the spatial relationship of the large wells to the locations of large dams (surface area larger than 50 acres). They have provided a a shp file for us and given us a web address for the well, dam, and water locations. They would like to have the Snake River and Henrys Fork rivers plotted.\nTheir US map is projected to show the entire US. You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.\n\nCourse Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Using library(sf) to read in spatial data\n\n\n\n\n\nTake notes on your reading of the new R package in the README.md or in a ‘.R’ script in the class task folder\nRead in all four of the necessary shp file datasets (see description)\nFilter all the data for the specific needs of Idaho\nCreate a .png image that plots the required information\nSave your script and .png files to GitHub\nBe prepared to discuss your observations of the well and dam locations in our next class meeting"
+    "text": "We have been asked by the state of Idaho to visualize permitted well locations with a production of more than 5000 gallons and the spatial relationship of the large wells to the locations of large dams (surface area larger than 50 acres). They have provided a a shp file for us and given us a web address for the well, dam, and water locations. They would like to have the Snake River and Henrys Fork rivers plotted.\nTheir US map is projected to show the entire US. You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Using library(sf) to read in spatial data\n\n\n\n\n\nTake notes on your reading of the new R package in the README.md or in a ‘.R’ script in the class task folder\nRead in all four of the necessary shp file datasets (see description)\nFilter all the data for the specific needs of Idaho\nCreate a .png image that plots the required information\nSave your script and .png files to GitHub\nBe prepared to discuss your observations of the well and dam locations in our next class meeting"
   },
   {
     "objectID": "qmd_files/modules_files/class_tasks/task20_details.html#task-20-getting-in-shp",
     "href": "qmd_files/modules_files/class_tasks/task20_details.html#task-20-getting-in-shp",
     "title": "task-20",
     "section": "",
-    "text": "We have been asked by the state of Idaho to visualize permitted well locations with a production of more than 5000 gallons and the spatial relationship of the large wells to the locations of large dams (surface area larger than 50 acres). They have provided a a shp file for us and given us a web address for the well, dam, and water locations. They would like to have the Snake River and Henrys Fork rivers plotted.\nTheir US map is projected to show the entire US. You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.\n\nCourse Website\n\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Using library(sf) to read in spatial data\n\n\n\n\n\nTake notes on your reading of the new R package in the README.md or in a ‘.R’ script in the class task folder\nRead in all four of the necessary shp file datasets (see description)\nFilter all the data for the specific needs of Idaho\nCreate a .png image that plots the required information\nSave your script and .png files to GitHub\nBe prepared to discuss your observations of the well and dam locations in our next class meeting"
+    "text": "We have been asked by the state of Idaho to visualize permitted well locations with a production of more than 5000 gallons and the spatial relationship of the large wells to the locations of large dams (surface area larger than 50 acres). They have provided a a shp file for us and given us a web address for the well, dam, and water locations. They would like to have the Snake River and Henrys Fork rivers plotted.\nTheir US map is projected to show the entire US. You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.\n\n\n\n\nThis reading will help you complete the tasks below.\n\no Using library(sf) to read in spatial data\n\n\n\n\n\nTake notes on your reading of the new R package in the README.md or in a ‘.R’ script in the class task folder\nRead in all four of the necessary shp file datasets (see description)\nFilter all the data for the specific needs of Idaho\nCreate a .png image that plots the required information\nSave your script and .png files to GitHub\nBe prepared to discuss your observations of the well and dam locations in our next class meeting"
   },
   {
     "objectID": "qmd_files/modules_files/class_tasks/task17_details.html",

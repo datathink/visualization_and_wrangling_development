@@ -17,8 +17,6 @@ Up to this point, we have dealt with data that fits into the tidy format without
 
 We will use `library(USAboundaries)`, `library(ggrepel)`, and `library(sf)` to make a map of the US and show the top 3 largest cities in each state. Specifically, you will use `library(ggplot2)` and the function `geom_sf()` to recreate the provided image.
 
- * [Course Website](../index.html)
-
 
 
 
@@ -56,4 +54,4 @@ This reading will help you complete the tasks below.
 
 ## Image
 
-![](../images/citymap.png)
+![](task19_image.png)

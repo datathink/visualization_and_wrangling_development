@@ -97,8 +97,72 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../../qmd_files/rpages_files/rpages.html"> 
 <span class="menu-text">R Help</span></a>
   </li>  
-  <li class="dropdown-header">
- <span class="menu-text">Resources</span></li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li class="dropdown-header">Course Textbook</li>
+        <li>
+    <a class="dropdown-item" href="http://r4ds.had.co.nz/">
+ <span class="dropdown-text">R for Data Science</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://cfss.uchicago.edu/setup/">
+ <span class="dropdown-text">Git/GitHub and R</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://bookdown.org/yihui/rmarkdown/">
+ <span class="dropdown-text">R Markdown: The Definitive Guide</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://geocompr.robinlovelace.net/">
+ <span class="dropdown-text">Geocomputation with R</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li class="dropdown-header">Supplemental Material</li>
+        <li>
+    <a class="dropdown-item" href="http://happygitwithr.com/">
+ <span class="dropdown-text">Happy Git and Github for the useR</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://plotly-book.cpsievert.me/index.html">
+ <span class="dropdown-text">plotly for R</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://cfss.uchicago.edu/notes/why-visualize-data/">
+ <span class="dropdown-text">Computing in R for Social Sciences</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="http://biostat.mc.vanderbilt.edu/wiki/pub/Main/RafeDonahue/fscipdpfcbg_currentversion.pdf">
+ <span class="dropdown-text">Statistical Concepts in Presenting Data:</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="http://adv-r.had.co.nz/">
+ <span class="dropdown-text">Advanced R</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="http://r-pkgs.had.co.nz/">
+ <span class="dropdown-text">R Packages</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://tidyeval.tidyverse.org/">
+ <span class="dropdown-text">Tidy evaluation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="http://serialmentor.com/dataviz/">
+ <span class="dropdown-text">Fundamentals of Data Visualization</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://geocompr.robinlovelace.net/">
+ <span class="dropdown-text">Geocomputation with R</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://rstudio.github.io/crosstalk/index.html">
+ <span class="dropdown-text">Crosstalk: htmlwidgets add-on</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -156,9 +220,6 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="background">Background</h3>
 <p>We have been asked by the state of Idaho to visualize permitted well locations with a production of more than 5000 gallons and the spatial relationship of the large wells to the locations of large dams (surface area larger than 50 acres). They have provided a a <a href="https://byuistats.github.io/M335/data/shp.zip">shp file</a> for us and given us a web address for the <a href="https://data-idwr.opendata.arcgis.com/datasets/1abb666937894ae4a87afe9655d2ff83_1">well</a>, <a href="https://data-idwr.opendata.arcgis.com/datasets/e163d7da3b84410ab94700a92b7735ce_0">dam</a>, and <a href="https://research.idwr.idaho.gov/gis/Spatial/Hydrography/streams_lakes/c_250k/hyd250.zip">water</a> locations. They would like to have the <code>Snake River</code> and <code>Henrys Fork</code> rivers plotted.</p>
 <p>Their US map is projected to show the entire US. You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.</p>
-<ul>
-<li><a href="../index.html">Course Website</a></li>
-</ul>
 <style>
 ul {
    color: black;
