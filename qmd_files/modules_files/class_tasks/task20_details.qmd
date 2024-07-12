@@ -17,6 +17,10 @@ We have been asked by the state of Idaho to visualize permitted well locations w
 
 Their US map is projected to show the entire US.  You will need to subset the data to Idaho and then reproject the map, so Idaho is not tilted.
 
+Ignore links above all data is in the download below.
+
+[zip file of what you will need](task20_spatial_idaho.zip)
+
 
 
 
