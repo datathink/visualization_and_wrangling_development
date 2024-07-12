@@ -4,6 +4,7 @@ project:
 
 website:
   title: "DataThink Development"
+  favicon: datathink.png
   navbar:
     pinned: true
     left:
